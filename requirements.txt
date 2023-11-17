@@ -1,0 +1,10 @@
+pandas
+openpyxl
+matplotlib
+seaborn
+ipywidgets
+IPython
+requests
+tabulate
+scikit-learn
+tensorflow
