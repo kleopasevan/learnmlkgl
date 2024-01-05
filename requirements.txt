@@ -8,3 +8,4 @@ requests
 tabulate
 scikit-learn
 tensorflow
+torch
